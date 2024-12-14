@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165474212681",
+    "project_id": "explosive-detection-mag-app",
+    "storage_bucket": "explosive-detection-mag-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165474212681:android:09f7f804d839716d86d898",
+        "android_client_info": {
+          "package_name": "com.example.explocive_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhUs4hhkVGnMxodB5OWqFm7gjfqP8DFNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
